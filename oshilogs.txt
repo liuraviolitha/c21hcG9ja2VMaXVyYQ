@@ -12,705 +12,145 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Liura =====
-[1]Liura       |08:41:07 | 11-10-2026| login OK @liuraviolitha | score=860 rank=6780
-[1]Liura       |08:41:07 | 11-10-2026| serverTime=2026-10-11T08:41:07.000Z local=2026-10-11T08:41:07.296Z
+[1]Liura       |12:49:39 | 12-10-2026| login OK @liuraviolitha | score=980 rank=6262
+[1]Liura       |12:49:39 | 12-10-2026| serverTime=2026-10-12T12:49:39.000Z local=2026-10-12T12:49:39.141Z
 --> [1]Liura menjalankan: Claim Daily
-[1]Liura       |08:41:09 | 11-10-2026| daily: sudah klaim (already=true) score=860
---> [1]Liura menjalankan: Auto All Tasks (3 pending)
-[1]Liura       |08:41:13 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109202027943677266
-[1]Liura       |08:41:13 | 11-10-2026| delay 10s...
-[1]Liura       |08:41:25 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109202213722637258
-[1]Liura       |08:41:25 | 11-10-2026| delay 10s...
-[1]Liura       |08:41:40 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109202273171010050
-[1]Liura       |08:41:40 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Liura       |08:41:43 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/liuraviolitha/status/2109202279244561534
+[1]Liura       |12:49:40 | 12-10-2026| daily: OK +10 poin score=990
+--> [1]Liura menjalankan: Auto All Tasks (9 pending)
+[1]Liura       |12:49:42 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627204806171759
+[1]Liura       |12:49:42 | 12-10-2026| delay 10s...
+[1]Liura       |12:49:53 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627073831055408
+[1]Liura       |12:49:53 | 12-10-2026| delay 10s...
+[1]Liura       |12:50:06 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627395832520638
+[1]Liura       |12:50:06 | 12-10-2026| delay 10s...
+[1]Liura       |12:50:17 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627325128958100
+[1]Liura       |12:50:17 | 12-10-2026| delay 10s...
+[1]Liura       |12:50:29 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Liura       |12:50:29 | 12-10-2026| delay 10s...
+[1]Liura       |12:50:41 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627370145664715
+[1]Liura       |12:50:41 | 12-10-2026| delay 10s...
+[1]Liura       |12:50:53 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627608489219193
+[1]Liura       |12:50:53 | 12-10-2026| delay 10s...
+[1]Liura       |12:51:06 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/liuraviolitha/status/2109627628747759420
+[1]Liura       |12:51:06 | 12-10-2026| delay 10s...
+[1]Liura       |12:51:18 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Liura       |12:51:18 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Liura       |12:51:19 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/liuraviolitha/status/2109627585062481567
 --> [1]Liura menjalankan: Watch Anime
-[1]Liura       |08:41:44 | 11-10-2026| watch: 4 video belum completed: oshi-first-journey,ep2,ep5,ep6
-[1]Liura       |08:41:44 | 11-10-2026| watch [1/4] farming oshi-first-journey...
-[1]Liura       |08:41:48 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Liura       |08:41:54 | 11-10-2026| watch oshi-first-journey: 7% (6.57/87.00s)
-[1]Liura       |08:42:00 | 11-10-2026| watch oshi-first-journey: 13% (11.95/87.00s)
-[1]Liura       |08:42:06 | 11-10-2026| watch oshi-first-journey: 20% (17.43/87.00s)
-[1]Liura       |08:42:12 | 11-10-2026| watch oshi-first-journey: 26% (22.82/87.00s)
-[1]Liura       |08:42:21 | 11-10-2026| watch oshi-first-journey: 32% (28.30/87.00s)
-[1]Liura       |08:42:30 | 11-10-2026| watch oshi-first-journey: 41% (36.31/87.00s)
-[1]Liura       |08:42:37 | 11-10-2026| watch oshi-first-journey: 50% (43.64/87.00s)
-[1]Liura       |08:42:43 | 11-10-2026| watch oshi-first-journey: 57% (49.65/87.00s)
-[1]Liura       |08:42:50 | 11-10-2026| watch oshi-first-journey: 63% (55.11/87.00s)
-[1]Liura       |08:42:58 | 11-10-2026| watch oshi-first-journey: 70% (61.16/87.00s)
-[1]Liura       |08:43:04 | 11-10-2026| watch oshi-first-journey: 78% (68.46/87.00s)
-[1]Liura       |08:43:12 | 11-10-2026| watch oshi-first-journey: 85% (74.24/87.00s)
-[1]Liura       |08:43:18 | 11-10-2026| watch oshi-first-journey: 92% (80.33/87.00s)
-[1]Liura       |08:43:18 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.33/87.00s)
-[1]Liura       |08:43:23 | 11-10-2026| watch [2/4] farming ep2...
-[1]Liura       |08:43:23 | 11-10-2026| watch ep2: mulai dari 0 (record 164.6s diabaikan)
-[1]Liura       |08:43:24 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:43:31 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:43:38 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:43:46 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:43:55 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:02 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:11 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:22 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:29 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:35 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:43 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:49 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:44:56 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:45:03 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:45:12 | 11-10-2026| watch ep2: 40% (164.59/406.00s)
-[1]Liura       |08:45:17 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:45:25 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:45:34 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:45:40 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:45:49 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:45:57 | 11-10-2026| watch ep2: 40% (164.71/406.00s)
-[1]Liura       |08:46:04 | 11-10-2026| watch ep2: 40% (165.16/406.00s)
-[1]Liura       |08:46:10 | 11-10-2026| watch ep2: 40% (165.16/406.00s)
-[1]Liura       |08:46:18 | 11-10-2026| watch ep2: 40% (165.16/406.00s)
-[1]Liura       |08:46:25 | 11-10-2026| watch ep2: 40% (165.16/406.00s)
-[1]Liura       |08:46:32 | 11-10-2026| watch ep2: 41% (167.95/406.00s)
-[1]Liura       |08:46:41 | 11-10-2026| watch ep2: 42% (174.06/406.00s)
-[1]Liura       |08:46:47 | 11-10-2026| watch ep2: 44% (180.28/406.00s)
-[1]Liura       |08:46:54 | 11-10-2026| watch ep2: 45% (185.81/406.00s)
-[1]Liura       |08:47:03 | 11-10-2026| watch ep2: 47% (192.37/406.00s)
-[1]Liura       |08:47:11 | 11-10-2026| watch ep2: 49% (200.29/406.00s)
-[1]Liura       |08:47:19 | 11-10-2026| watch ep2: 51% (207.76/406.00s)
-[1]Liura       |08:47:25 | 11-10-2026| watch ep2: 52% (214.05/406.00s)
-[1]Liura       |08:47:35 | 11-10-2026| watch ep2: 54% (219.72/406.00s)
-[1]Liura       |08:47:44 | 11-10-2026| watch ep2: heartbeat GAGAL http=503
-[1]Liura       |08:47:49 | 11-10-2026| watch [3/4] farming ep5...
-[1]Liura       |08:47:50 | 11-10-2026| watch ep5: mulai dari 0 (record 41.2s diabaikan)
-[1]Liura       |08:47:52 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:03 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:11 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:19 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:27 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:33 | 11-10-2026| watch ep5: 10% (41.25/396.00s)
-[1]Liura       |08:48:39 | 11-10-2026| watch ep5: 10% (43.13/396.00s)
-[1]Liura       |08:48:47 | 11-10-2026| watch ep5: 12% (48.56/396.00s)
-[1]Liura       |08:48:53 | 11-10-2026| watch ep5: 13% (55.36/396.00s)
-[1]Liura       |08:49:00 | 11-10-2026| watch ep5: 15% (61.17/396.00s)
-[1]Liura       |08:49:06 | 11-10-2026| watch ep5: 16% (66.76/396.00s)
-[1]Liura       |08:49:12 | 11-10-2026| watch ep5: 18% (72.14/396.00s)
-[1]Liura       |08:49:18 | 11-10-2026| watch ep5: 19% (78.25/396.00s)
-[1]Liura       |08:49:25 | 11-10-2026| watch ep5: 21% (83.66/396.00s)
-[1]Liura       |08:49:31 | 11-10-2026| watch ep5: 22% (89.43/396.00s)
-[1]Liura       |08:49:38 | 11-10-2026| watch ep5: 23% (94.85/396.00s)
-[1]Liura       |08:49:44 | 11-10-2026| watch ep5: 25% (101.02/396.00s)
-[1]Liura       |08:49:51 | 11-10-2026| watch ep5: 26% (106.64/396.00s)
-[1]Liura       |08:49:59 | 11-10-2026| watch ep5: 28% (113.05/396.00s)
-[1]Liura       |08:50:06 | 11-10-2026| watch ep5: 30% (120.29/396.00s)
-[1]Liura       |08:50:12 | 11-10-2026| watch ep5: 31% (126.33/396.00s)
-[1]Liura       |08:50:19 | 11-10-2026| watch ep5: 33% (131.75/396.00s)
-[1]Liura       |08:50:26 | 11-10-2026| watch ep5: 34% (138.07/396.00s)
-[1]Liura       |08:50:32 | 11-10-2026| watch ep5: 36% (143.73/396.00s)
-[1]Liura       |08:50:39 | 11-10-2026| watch ep5: 37% (149.75/396.00s)
-[1]Liura       |08:50:45 | 11-10-2026| watch ep5: 39% (155.17/396.00s)
-[1]Liura       |08:50:51 | 11-10-2026| watch ep5: 40% (161.06/396.00s)
-[1]Liura       |08:51:00 | 11-10-2026| watch ep5: 42% (166.51/396.00s)
-[1]Liura       |08:51:06 | 11-10-2026| watch ep5: 43% (172.59/396.00s)
-[1]Liura       |08:51:12 | 11-10-2026| watch ep5: 44% (178.01/396.00s)
-[1]Liura       |08:51:20 | 11-10-2026| watch ep5: 46% (183.76/396.00s)
-[1]Liura       |08:51:26 | 11-10-2026| watch ep5: 47% (190.01/396.00s)
-[1]Liura       |08:51:32 | 11-10-2026| watch ep5: 49% (195.52/396.00s)
-[1]Liura       |08:51:38 | 11-10-2026| watch ep5: 50% (200.94/396.00s)
-[1]Liura       |08:51:45 | 11-10-2026| watch ep5: 52% (206.88/396.00s)
-[1]Liura       |08:51:52 | 11-10-2026| watch ep5: 53% (213.11/396.00s)
-[1]Liura       |08:52:00 | 11-10-2026| watch ep5: 55% (219.15/396.00s)
-[1]Liura       |08:52:09 | 11-10-2026| watch ep5: 57% (226.75/396.00s)
-[1]Liura       |08:52:15 | 11-10-2026| watch ep5: 58% (233.13/396.00s)
-[1]Liura       |08:52:21 | 11-10-2026| watch ep5: 60% (238.74/396.00s)
-[1]Liura       |08:52:29 | 11-10-2026| watch ep5: 61% (244.19/396.00s)
-[1]Liura       |08:52:37 | 11-10-2026| watch ep5: 63% (250.81/396.00s)
-[1]Liura       |08:52:44 | 11-10-2026| watch ep5: 64% (257.34/396.00s)
-[1]Liura       |08:52:51 | 11-10-2026| watch ep5: 66% (263.18/396.00s)
-[1]Liura       |08:52:58 | 11-10-2026| watch ep5: 68% (269.50/396.00s)
-[1]Liura       |08:53:06 | 11-10-2026| watch ep5: 69% (276.59/396.00s)
-[1]Liura       |08:53:12 | 11-10-2026| watch ep5: 71% (282.66/396.00s)
-[1]Liura       |08:53:18 | 11-10-2026| watch ep5: 72% (288.12/396.00s)
-[1]Liura       |08:53:24 | 11-10-2026| watch ep5: 74% (293.56/396.00s)
-[1]Liura       |08:53:31 | 11-10-2026| watch ep5: 75% (298.93/396.00s)
-[1]Liura       |08:53:37 | 11-10-2026| watch ep5: 77% (305.23/396.00s)
-[1]Liura       |08:53:44 | 11-10-2026| watch ep5: 78% (311.15/396.00s)
-[1]Liura       |08:53:50 | 11-10-2026| watch ep5: 80% (317.07/396.00s)
-[1]Liura       |08:53:57 | 11-10-2026| watch ep5: 81% (322.94/396.00s)
-[1]Liura       |08:54:03 | 11-10-2026| watch ep5: 83% (328.73/396.00s)
-[1]Liura       |08:54:09 | 11-10-2026| watch ep5: 84% (334.69/396.00s)
-[1]Liura       |08:54:16 | 11-10-2026| watch ep5: 85% (340.07/396.00s)
-[1]Liura       |08:54:25 | 11-10-2026| watch ep5: 87% (346.28/396.00s)
-[1]Liura       |08:54:32 | 11-10-2026| watch ep5: 89% (353.10/396.00s)
-[1]Liura       |08:54:38 | 11-10-2026| watch ep5: 90% (359.11/396.00s)
-[1]Liura       |08:54:38 | 11-10-2026| watch ep5: COMPLETED (359.11/396.00s)
-[1]Liura       |08:54:43 | 11-10-2026| watch [4/4] farming ep6...
-[1]Liura       |08:54:46 | 11-10-2026| watch ep6: mulai dari 0 (record 152.4s diabaikan)
-[1]Liura       |08:54:49 | 11-10-2026| watch ep6: 37% (152.38/404.00s)
-[1]Liura       |08:54:57 | 11-10-2026| watch ep6: 37% (152.51/404.00s)
-[1]Liura       |08:55:03 | 11-10-2026| watch ep6: 37% (152.51/404.00s)
-[1]Liura       |08:55:13 | 11-10-2026| watch ep6: 37% (152.51/404.00s)
-[1]Liura       |08:55:21 | 11-10-2026| watch ep6: 37% (152.51/404.00s)
-[1]Liura       |08:55:29 | 11-10-2026| watch ep6: 37% (152.51/404.00s)
-[1]Liura       |08:55:36 | 11-10-2026| watch ep6: 37% (152.86/404.00s)
-[1]Liura       |08:55:45 | 11-10-2026| watch ep6: 37% (152.86/404.00s)
-[1]Liura       |08:55:53 | 11-10-2026| watch ep6: 37% (153.37/404.00s)
-[1]Liura       |08:56:00 | 11-10-2026| watch ep6: 37% (153.37/404.00s)
-[1]Liura       |08:56:07 | 11-10-2026| watch ep6: 38% (153.92/404.00s)
-[1]Liura       |08:56:14 | 11-10-2026| watch ep6: 38% (153.92/404.00s)
-[1]Liura       |08:56:21 | 11-10-2026| watch ep6: 38% (155.15/404.00s)
-[1]Liura       |08:56:27 | 11-10-2026| watch ep6: 38% (155.15/404.00s)
-[1]Liura       |08:56:35 | 11-10-2026| watch ep6: 38% (155.54/404.00s)
-[1]Liura       |08:56:41 | 11-10-2026| watch ep6: 38% (155.54/404.00s)
-[1]Liura       |08:56:47 | 11-10-2026| watch ep6: 38% (155.54/404.00s)
-[1]Liura       |08:56:54 | 11-10-2026| watch ep6: 39% (158.10/404.00s)
-[1]Liura       |08:57:00 | 11-10-2026| watch ep6: 40% (163.98/404.00s)
-[1]Liura       |08:57:07 | 11-10-2026| watch ep6: 41% (165.71/404.00s)
-[1]Liura       |08:57:13 | 11-10-2026| watch ep6: 41% (165.71/404.00s)
-[1]Liura       |08:57:19 | 11-10-2026| watch ep6: 41% (167.01/404.00s)
-[1]Liura       |08:57:25 | 11-10-2026| watch ep6: 41% (167.01/404.00s)
-[1]Liura       |08:57:31 | 11-10-2026| watch ep6: 41% (167.01/404.00s)
-[1]Liura       |08:57:38 | 11-10-2026| watch ep6: 41% (167.01/404.00s)
-[1]Liura       |08:57:45 | 11-10-2026| watch ep6: 41% (167.01/404.00s)
-[1]Liura       |08:57:51 | 11-10-2026| watch ep6: 41% (167.85/404.00s)
-[1]Liura       |08:57:57 | 11-10-2026| watch ep6: 42% (170.78/404.00s)
-[1]Liura       |08:58:04 | 11-10-2026| watch ep6: 43% (176.42/404.00s)
-[1]Liura       |08:58:12 | 11-10-2026| watch ep6: 45% (182.53/404.00s)
-[1]Liura       |08:58:23 | 11-10-2026| watch ep6: 46% (189.74/404.00s)
-[1]Liura       |08:58:31 | 11-10-2026| watch ep6: 48% (197.37/404.00s)
-[1]Liura       |08:58:37 | 11-10-2026| watch ep6: 50% (203.87/404.00s)
-[1]Liura       |08:58:44 | 11-10-2026| watch ep6: 51% (209.66/404.00s)
-[1]Liura       |08:58:50 | 11-10-2026| watch ep6: 53% (215.72/404.00s)
-[1]Liura       |08:58:58 | 11-10-2026| watch ep6: 54% (221.09/404.00s)
-[1]Liura       |08:59:07 | 11-10-2026| watch ep6: 56% (227.97/404.00s)
-[1]Liura       |08:59:13 | 11-10-2026| watch ep6: 57% (233.94/404.00s)
-[1]Liura       |08:59:19 | 11-10-2026| watch ep6: 59% (239.30/404.00s)
-[1]Liura       |08:59:25 | 11-10-2026| watch ep6: 60% (244.73/404.00s)
-[1]Liura       |08:59:31 | 11-10-2026| watch ep6: 61% (250.16/404.00s)
-[1]Liura       |08:59:37 | 11-10-2026| watch ep6: 63% (255.56/404.00s)
-[1]Liura       |08:59:43 | 11-10-2026| watch ep6: 64% (261.29/404.00s)
-[1]Liura       |08:59:50 | 11-10-2026| watch ep6: 66% (266.72/404.00s)
-[1]Liura       |09:00:02 | 11-10-2026| watch ep6: 67% (272.73/404.00s)
-[1]Liura       |09:00:09 | 11-10-2026| watch ep6: 67% (272.73/404.00s)
-[1]Liura       |09:00:16 | 11-10-2026| watch ep6: 68% (278.74/404.00s)
-[1]Liura       |09:00:22 | 11-10-2026| watch ep6: 70% (284.66/404.00s)
-[1]Liura       |09:00:33 | 11-10-2026| watch ep6: 71% (290.11/404.00s)
-[1]Liura       |09:00:40 | 11-10-2026| watch ep6: 73% (298.69/404.00s)
-[1]Liura       |09:00:46 | 11-10-2026| watch ep6: 75% (304.79/404.00s)
-[1]Liura       |09:00:54 | 11-10-2026| watch ep6: 76% (310.25/404.00s)
-[1]Liura       |09:01:01 | 11-10-2026| watch ep6: 78% (316.92/404.00s)
-[1]Liura       |09:01:08 | 11-10-2026| watch ep6: 80% (323.83/404.00s)
-[1]Liura       |09:01:14 | 11-10-2026| watch ep6: 81% (329.89/404.00s)
-[1]Liura       |09:01:22 | 11-10-2026| watch ep6: 83% (335.36/404.00s)
-[1]Liura       |09:01:30 | 11-10-2026| watch ep6: 84% (341.98/404.00s)
-[1]Liura       |09:01:38 | 11-10-2026| watch ep6: 86% (349.74/404.00s)
-[1]Liura       |09:01:45 | 11-10-2026| watch ep6: 88% (356.48/404.00s)
-[1]Liura       |09:01:52 | 11-10-2026| watch ep6: 89% (362.54/404.00s)
-[1]Liura       |09:01:58 | 11-10-2026| watch ep6: 91% (368.58/404.00s)
-[1]Liura       |09:01:58 | 11-10-2026| watch ep6: COMPLETED (368.58/404.00s)
+[1]Liura       |12:51:20 | 12-10-2026| watch: 1 video belum completed: ep2
+[1]Liura       |12:51:20 | 12-10-2026| watch [1/1] farming ep2...
+[1]Liura       |12:51:21 | 12-10-2026| watch ep2: mulai dari 0 (record 219.7s diabaikan)
+[1]Liura       |12:51:22 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:28 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:34 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:40 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:46 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:52 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:51:59 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:05 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:12 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:18 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:24 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:30 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:36 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:42 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:49 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:52:55 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:01 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:07 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:13 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:19 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:25 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:31 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:37 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:44 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:50 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:53:56 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:02 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:08 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:14 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:21 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:28 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:34 | 12-10-2026| watch ep2: 54% (219.72/406.00s)
+[1]Liura       |12:54:40 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:54:46 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:54:52 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:54:59 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:55:05 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:55:11 | 12-10-2026| watch ep2: 54% (221.53/406.00s)
+[1]Liura       |12:55:17 | 12-10-2026| watch ep2: 54% (221.94/406.00s)
+[1]Liura       |12:55:23 | 12-10-2026| watch ep2: 54% (221.94/406.00s)
+[1]Liura       |12:55:30 | 12-10-2026| watch ep2: 54% (222.68/406.00s)
+[1]Liura       |12:55:36 | 12-10-2026| watch ep2: 56% (228.43/406.00s)
+[1]Liura       |12:55:42 | 12-10-2026| watch ep2: 57% (233.87/406.00s)
+[1]Liura       |12:55:49 | 12-10-2026| watch ep2: 58% (239.30/406.00s)
+[1]Liura       |12:55:56 | 12-10-2026| watch ep2: 60% (245.88/406.00s)
+[1]Liura       |12:56:02 | 12-10-2026| watch ep2: 62% (251.92/406.00s)
+[1]Liura       |12:56:08 | 12-10-2026| watch ep2: 63% (257.49/406.00s)
+[1]Liura       |12:56:14 | 12-10-2026| watch ep2: 64% (263.15/406.00s)
+[1]Liura       |12:56:21 | 12-10-2026| watch ep2: 66% (268.68/406.00s)
+[1]Liura       |12:56:28 | 12-10-2026| watch ep2: 67% (274.31/406.00s)
+[1]Liura       |12:56:34 | 12-10-2026| watch ep2: 69% (280.36/406.00s)
+[1]Liura       |12:56:40 | 12-10-2026| watch ep2: 70% (286.13/406.00s)
+[1]Liura       |12:56:46 | 12-10-2026| watch ep2: 71% (291.56/406.00s)
+[1]Liura       |12:56:52 | 12-10-2026| watch ep2: 73% (297.05/406.00s)
+[1]Liura       |12:56:58 | 12-10-2026| watch ep2: 74% (302.49/406.00s)
+[1]Liura       |12:57:04 | 12-10-2026| watch ep2: 75% (308.00/406.00s)
+[1]Liura       |12:57:11 | 12-10-2026| watch ep2: 77% (313.64/406.00s)
+[1]Liura       |12:57:17 | 12-10-2026| watch ep2: 78% (319.33/406.00s)
+[1]Liura       |12:57:23 | 12-10-2026| watch ep2: 80% (325.06/406.00s)
+[1]Liura       |12:57:30 | 12-10-2026| watch ep2: 81% (330.52/406.00s)
+[1]Liura       |12:57:37 | 12-10-2026| watch ep2: 82% (336.79/406.00s)
+[1]Liura       |12:57:43 | 12-10-2026| watch ep2: 84% (342.79/406.00s)
+[1]Liura       |12:57:49 | 12-10-2026| watch ep2: 85% (348.27/406.00s)
+[1]Liura       |12:57:55 | 12-10-2026| watch ep2: 87% (353.89/406.00s)
+[1]Liura       |12:58:02 | 12-10-2026| watch ep2: 88% (359.72/406.00s)
+[1]Liura       |12:58:08 | 12-10-2026| watch ep2: 89% (365.38/406.00s)
+[1]Liura       |12:58:16 | 12-10-2026| watch ep2: 91% (370.85/406.00s)
+[1]Liura       |12:58:16 | 12-10-2026| watch ep2: COMPLETED (370.85/406.00s)
 --> [1]Liura menjalankan: Read Article
-[1]Liura       |09:02:03 | 11-10-2026| news: 0/24 artikel selesai dibaca
-[1]Liura       |09:02:04 | 11-10-2026| mint eligibility: {"userId":"1918403175729774594","youtube":{"url":"https://www.youtube.com/@liuraviolitha","status":"submitted","revision":"f0a8e522-c724-4007-a1ce-70fcb4e226e5","submittedAt":1791681908,"reviewedAt":1
-[1]Liura       |09:02:12 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
-[1]Liura       |09:02:21 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
-[1]Liura       |09:02:33 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
-[1]Liura       |09:02:43 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
-[1]Liura       |09:02:56 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
-[1]Liura       |09:03:08 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
-[1]Liura       |09:03:16 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
-[1]Liura       |09:03:28 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
-[1]Liura       |09:03:39 | 11-10-2026| news [9/24] smart-pocket-monthly-2026-09: OK completed=9
-[1]Liura       |09:03:47 | 11-10-2026| news [10/24] oshi-labs-monthly-2026-09: OK completed=10
-[1]Liura       |09:03:55 | 11-10-2026| news [11/24] oshi-news-launch: OK completed=11
-[1]Liura       |09:04:04 | 11-10-2026| news [12/24] yuki-character-design: OK completed=12
-[1]Liura       |09:04:12 | 11-10-2026| news [13/24] smart-pocket-mobile-apps: OK completed=13
-[1]Liura       |09:04:20 | 11-10-2026| news [14/24] smart-pocket-read-a-card: OK completed=14
-[1]Liura       |09:04:28 | 11-10-2026| news [15/24] start-your-fan-creation: OK completed=15
-[1]Liura       |09:04:36 | 11-10-2026| news [16/24] complete-your-first-task: OK completed=16
-[1]Liura       |09:04:45 | 11-10-2026| news [17/24] understand-the-rankings: OK completed=17
-[1]Liura       |09:04:53 | 11-10-2026| news [18/24] unlock-and-save-icons: OK completed=18
-[1]Liura       |09:05:05 | 11-10-2026| news [19/24] start-here: OK completed=19
-[1]Liura       |09:05:19 | 11-10-2026| news [20/24] what-is-free-mint: OK completed=20
-[1]Liura       |09:05:32 | 11-10-2026| news [21/24] what-is-nft: OK completed=21
-[1]Liura       |09:05:46 | 11-10-2026| news [22/24] prepare-your-wallet: OK completed=22
-[1]Liura       |09:05:59 | 11-10-2026| news [23/24] find-your-anime: OK completed=23
-[1]Liura       |09:06:13 | 11-10-2026| news [24/24] smart-pocket-first-steps: OK completed=24
+[1]Liura       |12:58:17 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Liura       |12:58:17 | 12-10-2026| mint eligibility: {"userId":"1918403175729774594","youtube":{"url":"https://www.youtube.com/@liuraviolitha","status":"submitted","revision":"f0a8e522-c724-4007-a1ce-70fcb4e226e5","submittedAt":1791681908,"reviewedAt":1
+[1]Liura       |12:58:17 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Liura menjalankan: Quiz Anime
-[1]Liura       |09:06:22 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Liura       |09:06:25 | 11-10-2026| quiz ep2: video belum selesai ditonton, skip (jalankan Watch Anime)
-[1]Liura       |09:06:27 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
-[1]Liura       |09:06:32 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
-[1]Liura       |09:06:40 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Liura       |09:06:45 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+[1]Liura       |12:58:18 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Liura       |12:58:20 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Liura       |12:58:23 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Liura       |12:58:23 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Liura       |12:58:23 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Liura       |12:58:23 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Liura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Liura       |09:06:50 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
-[1]Liura       |09:07:02 | 11-10-2026| music "この手は覚えてる": 9% (9.0063/94s)
-[1]Liura       |09:07:17 | 11-10-2026| music "この手は覚えてる": 20% (19.073700000000002/94s)
-[1]Liura       |09:07:29 | 11-10-2026| music "この手は覚えてる": 34% (32.4846/94s)
-[1]Liura       |09:07:40 | 11-10-2026| music "この手は覚えてる": 46% (43.8804/94s)
-[1]Liura       |09:07:51 | 11-10-2026| music "この手は覚えてる": 57% (53.9217/94s)
-[1]Liura       |09:08:03 | 11-10-2026| music "この手は覚えてる": 67% (63.621900000000004/94s)
-[1]Liura       |09:08:14 | 11-10-2026| music "この手は覚えてる": 78% (74.03580000000001/94s)
-[1]Liura       |09:08:26 | 11-10-2026| music "この手は覚えてる": 89% (84.30120000000001/94s)
-[1]Liura       |09:08:26 | 11-10-2026| music "この手は覚えてる": selesai 84.30120000000001s
-[1]Liura       |09:08:28 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Liura       |09:08:39 | 11-10-2026| music "キャンバス": 7% (9.0054/125s)
-[1]Liura       |09:08:51 | 11-10-2026| music "キャンバス": 15% (18.8019/125s)
-[1]Liura       |09:09:02 | 11-10-2026| music "キャンバス": 23% (29.5686/125s)
-[1]Liura       |09:09:13 | 11-10-2026| music "キャンバス": 31% (39.303/125s)
-[1]Liura       |09:09:24 | 11-10-2026| music "キャンバス": 39% (49.653/125s)
-[1]Liura       |09:09:36 | 11-10-2026| music "キャンバス": 47% (59.7744/125s)
-[1]Liura       |09:09:47 | 11-10-2026| music "キャンバス": 56% (70.33500000000001/125s)
-[1]Liura       |09:09:59 | 11-10-2026| music "キャンバス": 64% (80.19630000000001/125s)
-[1]Liura       |09:10:09 | 11-10-2026| music "キャンバス": 72% (90.6615/125s)
-[1]Liura       |09:10:21 | 11-10-2026| music "キャンバス": 80% (100.3995/125s)
-[1]Liura       |09:10:22 | 11-10-2026| music "キャンバス": selesai 100.3995s
-[1]Liura       |09:10:24 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Liura       |09:10:35 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
-[1]Liura       |09:10:50 | 11-10-2026| music "ゆっくり帰ろう": 12% (19.346400000000003/153s)
-[1]Liura       |09:11:03 | 11-10-2026| music "ゆっくり帰ろう": 21% (32.4819/153s)
-[1]Liura       |09:11:15 | 11-10-2026| music "ゆっくり帰ろう": 28% (44.287200000000006/153s)
-[1]Liura       |09:11:26 | 11-10-2026| music "ゆっくり帰ろう": 35% (54.90540000000001/153s)
-[1]Liura       |09:11:37 | 11-10-2026| music "ゆっくり帰ろう": 42% (65.19690000000001/153s)
-[1]Liura       |09:11:48 | 11-10-2026| music "ゆっくり帰ろう": 48% (74.94660000000002/153s)
-[1]Liura       |09:11:59 | 11-10-2026| music "ゆっくり帰ろう": 55% (85.25070000000002/153s)
-[1]Liura       |09:12:10 | 11-10-2026| music "ゆっくり帰ろう": 62% (94.94730000000003/153s)
-[1]Liura       |09:12:21 | 11-10-2026| music "ゆっくり帰ろう": 68% (104.85540000000003/153s)
-[1]Liura       |09:12:33 | 11-10-2026| music "ゆっくり帰ろう": 74% (114.61230000000003/153s)
-[1]Liura       |09:12:45 | 11-10-2026| music "ゆっくり帰ろう": 81% (124.96230000000003/153s)
-[1]Liura       |09:12:45 | 11-10-2026| music "ゆっくり帰ろう": selesai 124.96230000000003s
-[1]Liura       |09:12:47 | 11-10-2026| music memutar "うたかた" (185s)...
-[1]Liura       |09:13:00 | 11-10-2026| music "うたかた": 4% (9.0054/185s)
-[1]Liura       |09:13:11 | 11-10-2026| music "うたかた": 11% (20.464199999999998/185s)
-[1]Liura       |09:13:22 | 11-10-2026| music "うたかた": 16% (30.325499999999998/185s)
-[1]Liura       |09:13:33 | 11-10-2026| music "うたかた": 21% (40.141799999999996/185s)
-[1]Liura       |09:13:45 | 11-10-2026| music "うたかた": 27% (50.129999999999995/185s)
-[1]Liura       |09:13:56 | 11-10-2026| music "うたかた": 33% (61.29899999999999/185s)
-[1]Liura       |09:14:07 | 11-10-2026| music "うたかた": 38% (71.442/185s)
-[1]Liura       |09:14:18 | 11-10-2026| music "うたかた": 43% (81.1368/185s)
-[1]Liura       |09:14:30 | 11-10-2026| music "うたかた": 49% (90.8406/185s)
-[1]Liura       |09:14:41 | 11-10-2026| music "うたかた": 54% (101.6325/185s)
-[1]Liura       |09:14:52 | 11-10-2026| music "うたかた": 60% (111.4416/185s)
-[1]Liura       |09:15:04 | 11-10-2026| music "うたかた": 65% (121.7619/185s)
-[1]Liura       |09:15:16 | 11-10-2026| music "うたかた": 71% (132.1821/185s)
-[1]Liura       |09:15:27 | 11-10-2026| music "うたかた": 77% (142.7787/185s)
-[1]Liura       |09:15:38 | 11-10-2026| music "うたかた": 82% (153.28349999999998/185s)
-[1]Liura       |09:15:39 | 11-10-2026| music "うたかた": selesai 153.28349999999998s
-[1]Liura       |09:15:41 | 11-10-2026| music memutar "ぬくもり" (188s)...
-[1]Liura       |09:15:53 | 11-10-2026| music "ぬくもり": 4% (9.0054/188s)
-[1]Liura       |09:16:07 | 11-10-2026| music "ぬくもり": 10% (20.3652/188s)
-[1]Liura       |09:16:19 | 11-10-2026| music "ぬくもり": 17% (32.847300000000004/188s)
-[1]Liura       |09:16:30 | 11-10-2026| music "ぬくもり": 23% (43.525800000000004/188s)
-[1]Liura       |09:16:41 | 11-10-2026| music "ぬくもり": 28% (53.760600000000004/188s)
-[1]Liura       |09:16:54 | 11-10-2026| music "ぬくもり": 33% (63.5148/188s)
-[1]Liura       |09:17:05 | 11-10-2026| music "ぬくもり": 39% (74.9745/188s)
-[1]Liura       |09:17:17 | 11-10-2026| music "ぬくもり": 45% (85.4055/188s)
-[1]Liura       |09:17:29 | 11-10-2026| music "ぬくもり": 51% (96.2523/188s)
-[1]Liura       |09:17:41 | 11-10-2026| music "ぬくもり": 56% (106.7904/188s)
-[1]Liura       |09:17:52 | 11-10-2026| music "ぬくもり": 62% (117.2286/188s)
-[1]Liura       |09:18:04 | 11-10-2026| music "ぬくもり": 67% (127.575/188s)
-[1]Liura       |09:18:15 | 11-10-2026| music "ぬくもり": 73% (137.853/188s)
-[1]Liura       |09:18:27 | 11-10-2026| music "ぬくもり": 78% (147.89610000000002/188s)
-[1]Liura       |09:18:38 | 11-10-2026| music "ぬくもり": 84% (158.4864/188s)
-[1]Liura       |09:18:39 | 11-10-2026| music "ぬくもり": selesai 158.4864s
-[1]Liura       |09:18:41 | 11-10-2026| music memutar "桃色の頃" (213s)...
-[1]Liura       |09:18:51 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
-[1]Liura       |09:19:02 | 11-10-2026| music "桃色の頃": 8% (18.732599999999998/213s)
-[1]Liura       |09:19:14 | 11-10-2026| music "桃色の頃": 13% (28.466099999999997/213s)
-[1]Liura       |09:19:25 | 11-10-2026| music "桃色の頃": 18% (38.7099/213s)
-[1]Liura       |09:19:36 | 11-10-2026| music "桃色の頃": 23% (48.9942/213s)
-[1]Liura       |09:19:47 | 11-10-2026| music "桃色の頃": 27% (58.731300000000005/213s)
-[1]Liura       |09:20:00 | 11-10-2026| music "桃色の頃": 32% (68.5017/213s)
-[1]Liura       |09:20:11 | 11-10-2026| music "桃色の頃": 37% (80.4528/213s)
-[1]Liura       |09:20:22 | 11-10-2026| music "桃色の頃": 42% (90.207/213s)
-[1]Liura       |09:20:33 | 11-10-2026| music "桃色の頃": 46% (100.06739999999999/213s)
-[1]Liura       |09:20:44 | 11-10-2026| music "桃色の頃": 51% (109.8063/213s)
-[1]Liura       |09:20:59 | 11-10-2026| music "桃色の頃": 56% (119.8728/213s)
-[1]Liura       |09:21:10 | 11-10-2026| music "桃色の頃": 62% (133.2045/213s)
-[1]Liura       |09:21:23 | 11-10-2026| music "桃色の頃": 67% (143.4483/213s)
-[1]Liura       |09:21:35 | 11-10-2026| music "桃色の頃": 72% (154.98/213s)
-[1]Liura       |09:21:46 | 11-10-2026| music "桃色の頃": 77% (165.951/213s)
-[1]Liura       |09:21:57 | 11-10-2026| music "桃色の頃": 82% (176.2551/213s)
-[1]Liura       |09:21:58 | 11-10-2026| music "桃色の頃": selesai 176.2551s
-[1]Liura       |09:22:02 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Liura       |09:22:13 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
-[1]Liura       |09:22:26 | 11-10-2026| music "記憶の名前": 8% (19.1844/224s)
-[1]Liura       |09:22:38 | 11-10-2026| music "記憶の名前": 13% (30.429000000000002/224s)
-[1]Liura       |09:22:50 | 11-10-2026| music "記憶の名前": 18% (41.2434/224s)
-[1]Liura       |09:23:02 | 11-10-2026| music "記憶の名前": 23% (52.174800000000005/224s)
-[1]Liura       |09:23:13 | 11-10-2026| music "記憶の名前": 28% (63.18180000000001/224s)
-[1]Liura       |09:23:24 | 11-10-2026| music "記憶の名前": 32% (72.94590000000001/224s)
-[1]Liura       |09:23:36 | 11-10-2026| music "記憶の名前": 36% (82.66770000000001/224s)
-[1]Liura       |09:23:47 | 11-10-2026| music "記憶の名前": 41% (93.19140000000002/224s)
-[1]Liura       |09:23:58 | 11-10-2026| music "記憶の名前": 46% (103.15260000000002/224s)
-[1]Liura       |09:24:08 | 11-10-2026| music "記憶の名前": 50% (112.98330000000001/224s)
-[1]Liura       |09:24:19 | 11-10-2026| music "記憶の名前": 54% (122.70150000000001/224s)
-[1]Liura       |09:24:31 | 11-10-2026| music "記憶の名前": 59% (132.4017/224s)
-[1]Liura       |09:24:42 | 11-10-2026| music "記憶の名前": 63% (143.0721/224s)
-[1]Liura       |09:24:53 | 11-10-2026| music "記憶の名前": 68% (152.8776/224s)
-[1]Liura       |09:25:04 | 11-10-2026| music "記憶の名前": 72% (162.7029/224s)
-[1]Liura       |09:25:15 | 11-10-2026| music "記憶の名前": 77% (172.8711/224s)
-[1]Liura       |09:25:29 | 11-10-2026| music "記憶の名前": 81% (182.59650000000002/224s)
-[1]Liura       |09:25:29 | 11-10-2026| music "記憶の名前": selesai 182.59650000000002s
-[1]Liura       |09:25:32 | 11-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Liura       |09:25:43 | 11-10-2026| music "Smart Pocket": 3% (9.0045/232s)
-[1]Liura       |09:25:55 | 11-10-2026| music "Smart Pocket": 8% (18.7038/232s)
-[1]Liura       |09:26:06 | 11-10-2026| music "Smart Pocket": 12% (29.468700000000002/232s)
-[1]Liura       |09:26:17 | 11-10-2026| music "Smart Pocket": 17% (39.563100000000006/232s)
-[1]Liura       |09:26:28 | 11-10-2026| music "Smart Pocket": 21% (49.31280000000001/232s)
-[1]Liura       |09:26:39 | 11-10-2026| music "Smart Pocket": 25% (59.55210000000001/232s)
-[1]Liura       |09:26:50 | 11-10-2026| music "Smart Pocket": 29% (69.25770000000001/232s)
-[1]Liura       |09:27:01 | 11-10-2026| music "Smart Pocket": 34% (79.09110000000001/232s)
-[1]Liura       |09:27:12 | 11-10-2026| music "Smart Pocket": 38% (89.24670000000002/232s)
-[1]Liura       |09:27:24 | 11-10-2026| music "Smart Pocket": 42% (98.94960000000002/232s)
-[1]Liura       |09:27:36 | 11-10-2026| music "Smart Pocket": 47% (109.39590000000001/232s)
-[1]Liura       |09:27:46 | 11-10-2026| music "Smart Pocket": 51% (119.95470000000002/232s)
-[1]Liura       |09:27:58 | 11-10-2026| music "Smart Pocket": 55% (129.82770000000002/232s)
-[1]Liura       |09:28:10 | 11-10-2026| music "Smart Pocket": 60% (140.48460000000003/232s)
-[1]Liura       |09:28:21 | 11-10-2026| music "Smart Pocket": 65% (151.21080000000003/232s)
-[1]Liura       |09:28:32 | 11-10-2026| music "Smart Pocket": 69% (161.14590000000004/232s)
-[1]Liura       |09:28:44 | 11-10-2026| music "Smart Pocket": 73% (170.89290000000005/232s)
-[1]Liura       |09:28:56 | 11-10-2026| music "Smart Pocket": 78% (181.47960000000006/232s)
-[1]Liura       |09:29:07 | 11-10-2026| music "Smart Pocket": 82% (192.52080000000007/232s)
-[1]Liura       |09:29:08 | 11-10-2026| music "Smart Pocket": selesai 192.52080000000007s
-[1]Liura       |09:29:10 | 11-10-2026| music memutar "神様みたいに" (254s)...
-[1]Liura       |09:29:21 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Liura       |09:29:33 | 11-10-2026| music "神様みたいに": 7% (19.0152/254s)
-[1]Liura       |09:29:44 | 11-10-2026| music "神様みたいに": 11% (29.374200000000002/254s)
-[1]Liura       |09:29:54 | 11-10-2026| music "神様みたいに": 15% (39.0996/254s)
-[1]Liura       |09:30:05 | 11-10-2026| music "神様みたいに": 19% (48.8187/254s)
-[1]Liura       |09:30:16 | 11-10-2026| music "神様みたいに": 23% (58.5315/254s)
-[1]Liura       |09:30:27 | 11-10-2026| music "神様みたいに": 27% (68.6061/254s)
-[1]Liura       |09:30:38 | 11-10-2026| music "神様みたいに": 30% (78.4224/254s)
-[1]Liura       |09:30:49 | 11-10-2026| music "神様みたいに": 34% (88.48259999999999/254s)
-[1]Liura       |09:31:00 | 11-10-2026| music "神様みたいに": 38% (98.43209999999999/254s)
-[1]Liura       |09:31:11 | 11-10-2026| music "神様みたいに": 42% (108.1746/254s)
-[1]Liura       |09:31:22 | 11-10-2026| music "神様みたいに": 46% (118.1529/254s)
-[1]Liura       |09:31:33 | 11-10-2026| music "神様みたいに": 50% (127.8549/254s)
-[1]Liura       |09:31:44 | 11-10-2026| music "神様みたいに": 54% (137.727/254s)
-[1]Liura       |09:31:55 | 11-10-2026| music "神様みたいに": 58% (147.4344/254s)
-[1]Liura       |09:32:06 | 11-10-2026| music "神様みたいに": 61% (157.2003/254s)
-[1]Liura       |09:32:17 | 11-10-2026| music "神様みたいに": 65% (166.9275/254s)
-[1]Liura       |09:32:28 | 11-10-2026| music "神様みたいに": 69% (177.2604/254s)
-[1]Liura       |09:32:39 | 11-10-2026| music "神様みたいに": 73% (187.0362/254s)
-[1]Liura       |09:32:50 | 11-10-2026| music "神様みたいに": 77% (196.8831/254s)
-[1]Liura       |09:33:01 | 11-10-2026| music "神様みたいに": 81% (206.6913/254s)
-[1]Liura       |09:33:02 | 11-10-2026| music "神様みたいに": selesai 206.6913s
-[1]Liura       |09:33:03 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Liura       |09:33:14 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Liura       |09:33:25 | 11-10-2026| music "せーので、飛ぼう！": 6% (18.774900000000002/269s)
-[1]Liura       |09:33:36 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.482300000000002/269s)
-[1]Liura       |09:33:47 | 11-10-2026| music "せーので、飛ぼう！": 14% (38.4354/269s)
-[1]Liura       |09:33:58 | 11-10-2026| music "せーので、飛ぼう！": 17% (48.1896/269s)
-[1]Liura       |09:34:09 | 11-10-2026| music "せーので、飛ぼう！": 21% (58.286699999999996/269s)
-[1]Liura       |09:34:20 | 11-10-2026| music "せーので、飛ぼう！": 25% (68.0256/269s)
-[1]Liura       |09:34:31 | 11-10-2026| music "せーので、飛ぼう！": 28% (77.7735/269s)
-[1]Liura       |09:34:42 | 11-10-2026| music "せーので、飛ぼう！": 32% (87.4926/269s)
-[1]Liura       |09:34:53 | 11-10-2026| music "せーので、飛ぼう！": 36% (97.9686/269s)
-[1]Liura       |09:35:04 | 11-10-2026| music "せーので、飛ぼう！": 40% (107.8047/269s)
-[1]Liura       |09:35:15 | 11-10-2026| music "せーので、飛ぼう！": 43% (117.5427/269s)
-[1]Liura       |09:35:26 | 11-10-2026| music "せーので、飛ぼう！": 47% (127.6398/269s)
-[1]Liura       |09:35:37 | 11-10-2026| music "せーので、飛ぼう！": 51% (137.3427/269s)
-[1]Liura       |09:35:49 | 11-10-2026| music "せーので、飛ぼう！": 54% (147.20940000000002/269s)
-[1]Liura       |09:36:00 | 11-10-2026| music "せーので、飛ぼう！": 58% (157.8222/269s)
-[1]Liura       |09:36:11 | 11-10-2026| music "せーので、飛ぼう！": 62% (167.7123/269s)
-[1]Liura       |09:36:23 | 11-10-2026| music "せーので、飛ぼう！": 66% (177.8697/269s)
-[1]Liura       |09:36:34 | 11-10-2026| music "せーので、飛ぼう！": 70% (188.5725/269s)
-[1]Liura       |09:36:45 | 11-10-2026| music "せーので、飛ぼう！": 73% (198.37349999999998/269s)
-[1]Liura       |09:36:56 | 11-10-2026| music "せーので、飛ぼう！": 77% (208.28879999999998/269s)
-[1]Liura       |09:37:07 | 11-10-2026| music "せーので、飛ぼう！": 81% (218.0709/269s)
-[1]Liura       |09:37:07 | 11-10-2026| music "せーので、飛ぼう！": selesai 218.0709s
-[1]Liura       |09:37:09 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Liura       |09:37:20 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
-[1]Liura       |09:37:31 | 11-10-2026| music "ON CHAIN NEXUS": 6% (18.943199999999997/276s)
-[1]Liura       |09:37:42 | 11-10-2026| music "ON CHAIN NEXUS": 10% (28.953899999999997/276s)
-[1]Liura       |09:37:53 | 11-10-2026| music "ON CHAIN NEXUS": 14% (38.6532/276s)
-[1]Liura       |09:38:04 | 11-10-2026| music "ON CHAIN NEXUS": 17% (48.6477/276s)
-[1]Liura       |09:38:15 | 11-10-2026| music "ON CHAIN NEXUS": 21% (58.4019/276s)
-[1]Liura       |09:38:26 | 11-10-2026| music "ON CHAIN NEXUS": 24% (68.4603/276s)
-[1]Liura       |09:38:37 | 11-10-2026| music "ON CHAIN NEXUS": 28% (78.22980000000001/276s)
-[1]Liura       |09:38:48 | 11-10-2026| music "ON CHAIN NEXUS": 32% (88.39260000000002/276s)
-[1]Liura       |09:39:00 | 11-10-2026| music "ON CHAIN NEXUS": 35% (98.51310000000001/276s)
-[1]Liura       |09:39:10 | 11-10-2026| music "ON CHAIN NEXUS": 39% (108.5571/276s)
-[1]Liura       |09:39:21 | 11-10-2026| music "ON CHAIN NEXUS": 42% (118.26270000000001/276s)
-[1]Liura       |09:39:32 | 11-10-2026| music "ON CHAIN NEXUS": 46% (128.03490000000002/276s)
-[1]Liura       |09:39:43 | 11-10-2026| music "ON CHAIN NEXUS": 49% (137.73510000000002/276s)
-[1]Liura       |09:39:54 | 11-10-2026| music "ON CHAIN NEXUS": 53% (147.47760000000002/276s)
-[1]Liura       |09:40:06 | 11-10-2026| music "ON CHAIN NEXUS": 56% (157.2084/276s)
-[1]Liura       |09:40:16 | 11-10-2026| music "ON CHAIN NEXUS": 60% (167.9319/276s)
-[1]Liura       |09:40:28 | 11-10-2026| music "ON CHAIN NEXUS": 64% (177.7005/276s)
-[1]Liura       |09:40:39 | 11-10-2026| music "ON CHAIN NEXUS": 68% (187.8921/276s)
-[1]Liura       |09:40:50 | 11-10-2026| music "ON CHAIN NEXUS": 71% (197.6058/276s)
-[1]Liura       |09:41:01 | 11-10-2026| music "ON CHAIN NEXUS": 75% (208.3482/276s)
-[1]Liura       |09:41:12 | 11-10-2026| music "ON CHAIN NEXUS": 79% (218.1132/276s)
-[1]Liura       |09:41:24 | 11-10-2026| music "ON CHAIN NEXUS": 82% (227.8305/276s)
-[1]Liura       |09:41:24 | 11-10-2026| music "ON CHAIN NEXUS": selesai 227.8305s
-[1]Liura       |09:41:25 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Liura       |09:41:26 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Liura       |09:41:30 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Liura       |09:41:35 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Liura       |12:58:25 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Liura       |12:58:26 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Liura       |12:58:26 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liura       |12:58:26 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liura menjalankan: Claim Missions
-[1]Liura       |09:41:38 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Liura       |09:41:38 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Liura       |09:41:38 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Liura       |12:58:26 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Liura       |12:58:26 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liura       |12:58:26 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liura menjalankan: Check Eligibility
 
 --- eligibility [1]Liura ---
-  @liuraviolitha | score=860 rank=6780
-  tasks    [###################-] 73/76
+  @liuraviolitha | score=980 rank=6262
+  tasks    [##################--] 71/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [#################---] 5/6
-  watch    [####################] 17/17
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Liura menjalankan: Read Manga
-[1]Liura       |09:41:42 | 11-10-2026| manga: 13/13 chapter belum completed
-[1]Liura       |09:41:42 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Liura       |09:41:47 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
-[1]Liura       |09:41:51 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
-[1]Liura       |09:41:56 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
-[1]Liura       |09:42:01 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 13s
-[1]Liura       |09:42:05 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 18s
-[1]Liura       |09:42:09 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 23s
-[1]Liura       |09:42:14 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 27s
-[1]Liura       |09:42:18 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 32s
-[1]Liura       |09:42:23 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 36s
-[1]Liura       |09:42:27 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 40s
-[1]Liura       |09:42:32 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 44s
-[1]Liura       |09:42:36 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 49s
-[1]Liura       |09:42:41 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 54s
-[1]Liura       |09:42:45 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 58s
-[1]Liura       |09:42:49 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 63s
-[1]Liura       |09:42:54 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 67s
-[1]Liura       |09:42:58 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 71s
-[1]Liura       |09:43:03 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 76s
-[1]Liura       |09:43:08 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 81s
-[1]Liura       |09:43:12 | 11-10-2026| manga ch1 (1): COMPLETED
-[1]Liura       |09:43:15 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Liura       |09:43:21 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
-[1]Liura       |09:43:25 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
-[1]Liura       |09:43:29 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
-[1]Liura       |09:43:33 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 13s
-[1]Liura       |09:43:38 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 17s
-[1]Liura       |09:43:42 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 21s
-[1]Liura       |09:43:47 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 26s
-[1]Liura       |09:43:51 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 30s
-[1]Liura       |09:43:56 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 35s
-[1]Liura       |09:44:00 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 39s
-[1]Liura       |09:44:04 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 44s
-[1]Liura       |09:44:09 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 48s
-[1]Liura       |09:44:13 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 53s
-[1]Liura       |09:44:18 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 57s
-[1]Liura       |09:44:22 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 62s
-[1]Liura       |09:44:26 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 66s
-[1]Liura       |09:44:31 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 70s
-[1]Liura       |09:44:36 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 75s
-[1]Liura       |09:44:40 | 11-10-2026| manga ch2 (450001): COMPLETED
-[1]Liura       |09:44:43 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Liura       |09:44:49 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
-[1]Liura       |09:44:53 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
-[1]Liura       |09:44:58 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
-[1]Liura       |09:45:02 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 13s
-[1]Liura       |09:45:06 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
-[1]Liura       |09:45:11 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 22s
-[1]Liura       |09:45:16 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 27s
-[1]Liura       |09:45:21 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
-[1]Liura       |09:45:25 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 36s
-[1]Liura       |09:45:29 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 41s
-[1]Liura       |09:45:34 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 45s
-[1]Liura       |09:45:38 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 50s
-[1]Liura       |09:45:42 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 54s
-[1]Liura       |09:45:47 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 58s
-[1]Liura       |09:45:51 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 62s
-[1]Liura       |09:45:55 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 67s
-[1]Liura       |09:46:00 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 71s
-[1]Liura       |09:46:05 | 11-10-2026| manga ch3 (2160001): COMPLETED
-[1]Liura       |09:46:08 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Liura       |09:46:14 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
-[1]Liura       |09:46:19 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
-[1]Liura       |09:46:23 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
-[1]Liura       |09:46:28 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
-[1]Liura       |09:46:32 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
-[1]Liura       |09:46:36 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
-[1]Liura       |09:46:42 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 27s
-[1]Liura       |09:46:46 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 33s
-[1]Liura       |09:46:50 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
-[1]Liura       |09:46:55 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 41s
-[1]Liura       |09:46:59 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 46s
-[1]Liura       |09:47:04 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 50s
-[1]Liura       |09:47:09 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 55s
-[1]Liura       |09:47:13 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 60s
-[1]Liura       |09:47:17 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 64s
-[1]Liura       |09:47:21 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 68s
-[1]Liura       |09:47:26 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 73s
-[1]Liura       |09:47:31 | 11-10-2026| manga ch4 (2400001): COMPLETED
-[1]Liura       |09:47:34 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Liura       |09:47:40 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
-[1]Liura       |09:47:45 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
-[1]Liura       |09:47:49 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
-[1]Liura       |09:47:53 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 13s
-[1]Liura       |09:47:57 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 17s
-[1]Liura       |09:48:02 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 22s
-[1]Liura       |09:48:06 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 26s
-[1]Liura       |09:48:11 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 30s
-[1]Liura       |09:48:16 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 36s
-[1]Liura       |09:48:20 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 40s
-[1]Liura       |09:48:25 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 45s
-[1]Liura       |09:48:29 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 49s
-[1]Liura       |09:48:34 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 53s
-[1]Liura       |09:48:39 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 58s
-[1]Liura       |09:48:43 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 63s
-[1]Liura       |09:48:47 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 67s
-[1]Liura       |09:48:51 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 71s
-[1]Liura       |09:48:56 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 76s
-[1]Liura       |09:49:02 | 11-10-2026| manga ch5 (2490001): COMPLETED
-[1]Liura       |09:49:05 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Liura       |09:49:10 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
-[1]Liura       |09:49:14 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 4s
-[1]Liura       |09:49:19 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
-[1]Liura       |09:49:24 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
-[1]Liura       |09:49:28 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
-[1]Liura       |09:49:33 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
-[1]Liura       |09:49:37 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
-[1]Liura       |09:49:42 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
-[1]Liura       |09:49:47 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
-[1]Liura       |09:49:52 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
-[1]Liura       |09:49:58 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
-[1]Liura       |09:50:03 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 52s
-[1]Liura       |09:50:07 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 57s
-[1]Liura       |09:50:11 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 61s
-[1]Liura       |09:50:16 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 66s
-[1]Liura       |09:50:21 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 70s
-[1]Liura       |09:50:25 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 75s
-[1]Liura       |09:50:30 | 11-10-2026| manga ch6 (2610001): COMPLETED
-[1]Liura       |09:50:33 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Liura       |09:50:38 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
-[1]Liura       |09:50:44 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
-[1]Liura       |09:50:48 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
-[1]Liura       |09:50:52 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
-[1]Liura       |09:50:57 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
-[1]Liura       |09:51:02 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
-[1]Liura       |09:51:07 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
-[1]Liura       |09:51:11 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
-[1]Liura       |09:51:16 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 38s
-[1]Liura       |09:51:22 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 43s
-[1]Liura       |09:51:26 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
-[1]Liura       |09:51:30 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 53s
-[1]Liura       |09:51:35 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 57s
-[1]Liura       |09:51:39 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 61s
-[1]Liura       |09:51:44 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 66s
-[1]Liura       |09:51:50 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 71s
-[1]Liura       |09:51:54 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 76s
-[1]Liura       |09:51:58 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 80s
-[1]Liura       |09:52:03 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 85s
-[1]Liura       |09:52:08 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
-[1]Liura       |09:52:12 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 94s
-[1]Liura       |09:52:17 | 11-10-2026| manga ch1 (180003): COMPLETED
-[1]Liura       |09:52:20 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Liura       |09:52:27 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
-[1]Liura       |09:52:31 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
-[1]Liura       |09:52:36 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
-[1]Liura       |09:52:41 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
-[1]Liura       |09:52:45 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
-[1]Liura       |09:52:50 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
-[1]Liura       |09:52:54 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
-[1]Liura       |09:52:58 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 32s
-[1]Liura       |09:53:03 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 37s
-[1]Liura       |09:53:07 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 41s
-[1]Liura       |09:53:11 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 46s
-[1]Liura       |09:53:16 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 50s
-[1]Liura       |09:53:21 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 54s
-[1]Liura       |09:53:25 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 59s
-[1]Liura       |09:53:30 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 64s
-[1]Liura       |09:53:35 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 68s
-[1]Liura       |09:53:40 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 74s
-[1]Liura       |09:53:44 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 78s
-[1]Liura       |09:53:48 | 11-10-2026| manga ch2 (990005): COMPLETED
-[1]Liura       |09:53:51 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Liura       |09:53:56 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
-[1]Liura       |09:54:01 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
-[1]Liura       |09:54:05 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
-[1]Liura       |09:54:10 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 13s
-[1]Liura       |09:54:14 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 17s
-[1]Liura       |09:54:19 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 22s
-[1]Liura       |09:54:23 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 27s
-[1]Liura       |09:54:28 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 31s
-[1]Liura       |09:54:32 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 35s
-[1]Liura       |09:54:37 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 40s
-[1]Liura       |09:54:41 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 45s
-[1]Liura       |09:54:46 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 49s
-[1]Liura       |09:54:50 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 54s
-[1]Liura       |09:54:54 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 58s
-[1]Liura       |09:54:59 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 62s
-[1]Liura       |09:55:03 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 66s
-[1]Liura       |09:55:08 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 71s
-[1]Liura       |09:55:12 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 76s
-[1]Liura       |09:55:16 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 80s
-[1]Liura       |09:55:21 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 84s
-[1]Liura       |09:55:25 | 11-10-2026| manga ch3 (1980001): COMPLETED
-[1]Liura       |09:55:28 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Liura       |09:55:34 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
-[1]Liura       |09:55:38 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
-[1]Liura       |09:55:43 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
-[1]Liura       |09:55:48 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 13s
-[1]Liura       |09:55:52 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 18s
-[1]Liura       |09:55:56 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 22s
-[1]Liura       |09:56:00 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
-[1]Liura       |09:56:05 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 31s
-[1]Liura       |09:56:09 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 36s
-[1]Liura       |09:56:14 | 11-10-2026| manga ch1 (2100001): COMPLETED
-[1]Liura       |09:56:17 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Liura       |09:56:22 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
-[1]Liura       |09:56:27 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
-[1]Liura       |09:56:31 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
-[1]Liura       |09:56:37 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 13s
-[1]Liura       |09:56:41 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
-[1]Liura       |09:56:45 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
-[1]Liura       |09:56:50 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
-[1]Liura       |09:56:55 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
-[1]Liura       |09:56:59 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
-[1]Liura       |09:57:04 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 41s
-[1]Liura       |09:57:08 | 11-10-2026| manga ch1 (2070001): COMPLETED
-[1]Liura       |09:57:11 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Liura       |09:57:17 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
-[1]Liura       |09:57:22 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
-[1]Liura       |09:57:26 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 10s
-[1]Liura       |09:57:31 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
-[1]Liura       |09:57:37 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 20s
-[1]Liura       |09:57:42 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 25s
-[1]Liura       |09:57:47 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 30s
-[1]Liura       |09:57:51 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 35s
-[1]Liura       |09:57:56 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 39s
-[1]Liura       |09:58:00 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 44s
-[1]Liura       |09:58:05 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 48s
-[1]Liura       |09:58:10 | 11-10-2026| manga ch2 (2520001): COMPLETED
-[1]Liura       |09:58:13 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Liura       |09:58:19 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
-[1]Liura       |09:58:23 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
-[1]Liura       |09:58:28 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
-[1]Liura       |09:58:33 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 13s
-[1]Liura       |09:58:37 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
-[1]Liura       |09:58:42 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
-[1]Liura       |09:58:48 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 27s
-[1]Liura       |09:58:53 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
-[1]Liura       |09:58:58 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 39s
-[1]Liura       |09:59:02 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 43s
-[1]Liura       |09:59:07 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 48s
-[1]Liura       |09:59:12 | 11-10-2026| manga ch3 (2550001): COMPLETED
+[1]Liura       |12:58:30 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Liura menjalankan: Get Gift
-[1]Liura       |09:59:16 | 11-10-2026| gift: 3/3 belum diterima
-[1]Liura       |09:59:18 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
-[1]Liura       |09:59:21 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
-[1]Liura       |09:59:24 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+[1]Liura       |12:58:31 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Liura menjalankan: Setup Profile
-[1]Liura       |09:59:27 | 11-10-2026| profile: bio="" fav=- rewardAt=-
-[1]Liura       |09:59:28 | 11-10-2026| profile: OK bio="https://x.com/liuraviolitha" fav=yuki awarded=true +10pt
+[1]Liura       |12:58:31 | 12-10-2026| profile: bio="https://x.com/liuraviolitha" fav=yuki rewardAt=1791712768
+[1]Liura       |12:58:31 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Liura menjalankan: Bind Wallet
-[1]Liura       |09:59:29 | 11-10-2026| wallet: derivasi dari privateKeySolana -> H5kba8HCUVr17QdjYfMVzoAwW56kzA68uWuuCWtxsEXy (cek cocok dengan wallet kamu!)
-[1]Liura       |09:59:29 | 11-10-2026| wallet: /api/wallet OK (solana)
-[1]Liura       |09:59:30 | 11-10-2026| wallet: /api/sol-address OK
+[1]Liura       |12:58:32 | 12-10-2026| wallet: sudah terikat H5kba8HCUV... (solana)
 
 == RINGKASAN ==
-- Liura: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 5 (+50pt) | watch 3/4 completed | musik 11 trek ~1825.398s | artikel 24 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
+- Liura: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
