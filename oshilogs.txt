@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Liura =====
-[1]Liura       |05:24:05 | 17-10-2026| login OK @liuraviolitha | score=1340 rank=4821
-[1]Liura       |05:24:05 | 17-10-2026| serverTime=2026-10-17T05:24:05.000Z local=2026-10-17T05:24:05.826Z
+[1]Liura       |06:47:57 | 18-10-2026| login OK @liuraviolitha | score=1380 rank=4810
+[1]Liura       |06:47:57 | 18-10-2026| serverTime=2026-10-18T06:47:57.000Z local=2026-10-18T06:47:57.815Z
 --> [1]Liura menjalankan: Claim Daily
-[1]Liura       |05:24:06 | 17-10-2026| daily: OK +10 poin score=1350
---> [1]Liura menjalankan: Auto All Tasks (3 pending)
-[1]Liura       |05:24:08 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/liuraviolitha/status/2111326832323115460
-[1]Liura       |05:24:08 | 17-10-2026| delay 10s...
-[1]Liura       |05:24:20 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/liuraviolitha/status/2111327129377245939
-[1]Liura       |05:24:20 | 17-10-2026| delay 10s...
-[1]Liura       |05:24:32 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/liuraviolitha/status/2111326845136402650
-[1]Liura       |05:24:32 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Liura       |05:24:34 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/liuraviolitha/status/2111327016334837468
+[1]Liura       |06:47:58 | 18-10-2026| daily: OK +10 poin score=1390
+--> [1]Liura menjalankan: Auto All Tasks (5 pending)
+[1]Liura       |06:48:01 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/liuraviolitha/status/2111710342561929819
+[1]Liura       |06:48:01 | 18-10-2026| delay 10s...
+[1]Liura       |06:48:14 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/liuraviolitha/status/2111710521406784680
+[1]Liura       |06:48:14 | 18-10-2026| delay 10s...
+[1]Liura       |06:48:27 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/liuraviolitha/status/2111710593606623405
+[1]Liura       |06:48:27 | 18-10-2026| delay 10s...
+[1]Liura       |06:48:40 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Liura       |06:48:40 | 18-10-2026| delay 10s...
+[1]Liura       |06:48:52 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/liuraviolitha/status/2111710658726276298
+[1]Liura       |06:48:52 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Liura       |06:48:53 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/liuraviolitha/status/2111710668801383204
 --> [1]Liura menjalankan: Watch Anime
-[1]Liura       |05:24:35 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Liura       |05:24:35 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Liura       |05:24:37 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Liura       |05:24:42 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Liura       |05:24:44 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Liura       |05:24:49 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Liura       |05:24:50 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Liura       |06:48:55 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Liura       |06:48:55 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Liura       |06:48:57 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Liura       |06:49:02 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Liura       |06:49:04 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Liura       |06:49:09 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Liura       |06:49:12 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Liura       |06:49:17 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Liura       |06:49:18 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Liura menjalankan: Read Article
-[1]Liura       |05:24:52 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Liura       |05:24:52 | 17-10-2026| mint eligibility: {"userId":"1918403175729774594","youtube":{"url":"https://www.youtube.com/@liuraviolitha","status":"submitted","revision":"f0a8e522-c724-4007-a1ce-70fcb4e226e5","submittedAt":1791681908,"reviewedAt":1
-[1]Liura       |05:24:52 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Liura       |06:49:20 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Liura       |06:49:20 | 18-10-2026| mint eligibility: {"userId":"1918403175729774594","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@liuraviolitha","status":"submitted","revision":"f0a8e522-c724-4007-a1ce-70fcb4e2
+[1]Liura       |06:49:20 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Liura menjalankan: Quiz Anime
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Liura       |05:24:53 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Liura       |06:49:21 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Liura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Liura       |05:24:55 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Liura       |05:24:55 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Liura       |05:24:55 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Liura       |05:24:55 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Liura       |06:49:22 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Liura       |06:49:23 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Liura       |06:49:23 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liura       |06:49:23 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liura menjalankan: Claim Missions
-[1]Liura       |05:24:56 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Liura       |05:24:56 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Liura       |05:24:56 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Liura       |06:49:24 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Liura       |06:49:24 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Liura       |06:49:24 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Liura menjalankan: Check Eligibility
 
 --- eligibility [1]Liura ---
-  @liuraviolitha | score=1340 rank=4821
-  tasks    [###################-] 78/81
+  @liuraviolitha | score=1380 rank=4810
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Liura menjalankan: Read Manga
-[1]Liura       |05:25:00 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Liura       |06:49:28 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Liura menjalankan: Get Gift
-[1]Liura       |05:25:00 | 17-10-2026| gift: 0/4 belum diterima
+[1]Liura       |06:49:28 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Liura menjalankan: Setup Profile
-[1]Liura       |05:25:02 | 17-10-2026| profile: bio="https://x.com/liuraviolitha" fav=yuki rewardAt=1791712768
-[1]Liura       |05:25:02 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Liura       |06:49:29 | 18-10-2026| profile: bio="https://x.com/liuraviolitha" fav=yuki rewardAt=1791712768
+[1]Liura       |06:49:29 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Liura menjalankan: Bind Wallet
-[1]Liura       |05:25:03 | 17-10-2026| wallet: sudah terikat H5kba8HCUV... (solana)
+[1]Liura       |06:49:29 | 18-10-2026| wallet: sudah terikat H5kba8HCUV... (solana)
 
 == RINGKASAN ==
-- Liura: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Liura: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
